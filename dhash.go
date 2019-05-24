@@ -21,8 +21,9 @@ TODO Benchmarks for every algorithm
 package imagehash
 
 import (
-	"github.com/disintegration/imaging"
 	"image"
+
+	"github.com/disintegration/imaging"
 )
 
 // Dhash calculates the horizontal and vertical gradient hashes separately, then
